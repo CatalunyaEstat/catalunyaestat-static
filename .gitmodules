@@ -1,0 +1,3 @@
+[submodule "pack1"]
+	path = pack1
+	url = https://github.com/CatalunyaEstat/catalunyaestat-static-pack1.git
